@@ -16,7 +16,7 @@ This project is part of my data analysis learning journey.
 ---
 
 📁 File included:
-- `Sales_Data_Week1.xlsx` - Raw sales data with calculated totals and pivot analysis
+- `Sales_Data.xlsx` - Raw sales data with calculated totals and pivot analysis
 
 
 
